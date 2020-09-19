@@ -4,7 +4,7 @@
 
 I'm a multimedia engineer interested in developing unique webs and mobile apps. I'm specialized in front-end and 
 UI/UX design, but I also enjoy working on everything related to databases and APIs. I am always aware 
-of trends and best practices in order to develop quality products. [Check my CV](CV%20-%20Esther%20Navarro%20García.pdf) to know more about my skills!
+of trends and best practices in order to develop quality products. **[Take a look to my CV](CV%20-%20Esther%20Navarro%20García.pdf)** to know more about my skills!
 
 ### 💌 Contact
 
