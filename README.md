@@ -1,4 +1,4 @@
-![Header with my name and web skills](header.png)
+![Header with my name and web skills](prueba.png)
 
 ### 👋 Hi, I'm Esther! 
 
